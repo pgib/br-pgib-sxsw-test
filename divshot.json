@@ -1,5 +1,5 @@
 {
-  "name": "br-frontend-testing-flow",
+  "name": "br-pgib-sxsw-test",
   "root": "dist",
   "clean_urls": true,
   "error_page": "error.html"
